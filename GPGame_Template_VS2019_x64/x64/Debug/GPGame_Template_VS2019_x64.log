@@ -1,17 +1,36 @@
 ﻿  GPGame_Template_VS2019_x64.cpp
-  shapes.cpp
-C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(109,23): warning C4305:  'initializing': truncation from 'double' to 'float'
-C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\shapes.cpp(31,39): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\shapes.cpp(31,91): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\shapes.cpp(34,72): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\shapes.cpp(37,72): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\shapes.cpp(45,39): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\shapes.cpp(45,91): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\shapes.cpp(48,72): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\shapes.cpp(51,72): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\shapes.cpp(58,40): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\shapes.cpp(58,94): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\shapes.cpp(157,58): warning C4267:  'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
-  Generating Code...
-C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\shapes.cpp(161,58): warning C4267:  'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(404,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(412,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(419,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(427,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(437,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(447,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(448,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(455,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(462,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(473,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(474,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(485,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(486,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(497,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(498,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(505,21): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(516,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(517,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(527,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(528,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(535,21): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(542,21): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(549,21): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(556,21): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(563,21): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(570,21): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(577,21): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(587,21): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(588,21): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(598,21): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(599,21): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(609,21): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(610,21): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64\GPGame_Template_VS2019_x64.cpp(617,21): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
   GPGame_Template_VS2019_x64.vcxproj -> C:\Users\jwp3\source\repos\GPGameTemplate\GPGame_Template_VS2019_x64\x64\Debug\GPGame_Template_VS2019_x64.exe
